@@ -1,4 +1,4 @@
-# UNMAINTAINED
+# continuing phocean work on topicons plus
 
 ** This project has been archived.**
 
